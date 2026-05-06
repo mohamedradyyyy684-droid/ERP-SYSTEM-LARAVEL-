@@ -1,0 +1,16 @@
+# Ignore Blade template files
+**/*.blade.php
+
+# Ignore vendor directories
+**/vendor/**
+
+# Ignore storage directories
+**/storage/**
+
+# Ignore node_modules
+**/node_modules/**
+
+# Ignore compiled assets
+**/public/build/**
+**/public/css/**
+**/public/js/**
